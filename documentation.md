@@ -7,4 +7,4 @@ The CSV for the app is in the format shown in the table below.
 | Year | Tax.Year | Month | Basic.Pay | Tax | NI | Pension Contribution | Total.Deducts | Take.Home | Invested | Kept | Saved |
 |------|----------|-------|-----------|-----|----|----------------------|---------------|-----------|----------|------|-------|
 
-` Pension Contribution` should be changed to something along the lines of `[companyname].pension.cont` and ensure this is changed in the script. 
+` Pension Contribution` should be changed to something along the lines of `[companyname].Pension` and ensure this is changed in the script. 
